@@ -9,5 +9,5 @@ package com.rockthejvm.playground
   * Daniel @ Rock the JVM
   */
 object Playground extends App {
-  println("Rock the JVM!")
+  println("Hello world!")
 }
